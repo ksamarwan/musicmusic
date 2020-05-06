@@ -1,6 +1,6 @@
-owner=«Ï œÏ Õﬁﬂ
+owner=493737008422846474
 prefix=!
-game=Me | !play
+game=
 stayinchannel=true
 songinstatus=false
-token= ‹‹‹Êﬂ‹‹‹‰ »‹‹Ê ‹ﬂ
+token=Njk2ODEzNjA1MDUxNTY0MDQy.XrIXGw.UkmeKKeX7dRp9VZ3QjzuODe9ZYM
